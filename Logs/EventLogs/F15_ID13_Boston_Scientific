@@ -1,0 +1,398 @@
+Payment made for jmrolf, 2 semesters paid for
+INSERT INTO Ticket VALUES(13, 'jmrolf')
+
+
+Payment made for jmhage, 2 semesters paid for
+INSERT INTO Ticket VALUES(13, 'jmhage')
+
+
+New Member: (kenyon, Brown, Kenyon D, Pre-Business, Sophomore, 0)
+Trial Meeting for kenyon
+INSERT INTO Ticket VALUES(13, 'kenyon')
+
+
+New Member: (dolson, Olson, Daniel John, Management Information Systems, Junior, 0)
+Trial Meeting for dolson
+INSERT INTO Ticket VALUES(13, 'dolson')
+
+
+New Member: (bbpeters, Peters, Ben B, Management Information Systems, Junior, 0)
+Trial Meeting for bbpeters
+INSERT INTO Ticket VALUES(13, 'bbpeters')
+
+
+New Member: (acramond, Cramond, Anne B, Supply Chain Management, Junior, 1)
+Payment made for 1 semesters for net id acramond
+INSERT INTO Ticket VALUES(13, 'acramond')
+
+
+Payment made for csincox, 1 semesters paid for
+INSERT INTO Ticket VALUES(13, 'csincox')
+
+
+New Member: (amhilton, Hilton, Ashley Marie, Pre-Business, Junior, 0)
+Trial Meeting for amhilton
+INSERT INTO Ticket VALUES(13, 'amhilton')
+
+
+New Member: (nldix, Dix, Nolan Lee, Management Information Systems, Senior, 0)
+Trial Meeting for nldix
+INSERT INTO Ticket VALUES(13, 'nldix')
+
+
+New Member: (dchhitu, Chhitu, Dillon, Pre-Business, Senior, 2)
+Payment made for 2 semesters for net id dchhitu
+INSERT INTO Ticket VALUES(13, 'dchhitu')
+
+
+New Member: (rsin, Sinclair, Ryan Michael, Finance, Senior, 0)
+Trial Meeting for rsin
+INSERT INTO Ticket VALUES(13, 'rsin')
+
+
+New Member: (akumar, Kumar, Aneesh, Supply Chain and Information Systems, Graduate, 2)
+Payment made for 2 semesters for net id akumar
+INSERT INTO Ticket VALUES(13, 'akumar')
+
+
+Payment made for israelt, 2 semesters paid for
+INSERT INTO Ticket VALUES(13, 'israelt')
+
+
+Payment made for cklum, 2 semesters paid for
+INSERT INTO Ticket VALUES(13, 'cklum')
+
+
+Payment made for chaihuan, 2 semesters paid for
+INSERT INTO Ticket VALUES(13, 'chaihuan')
+
+
+New Member: (apadiyar, Padiyar, Anup Sathish, Supply Chain and Information Systems, Graduate, 2)
+Payment made for 2 semesters for net id apadiyar
+INSERT INTO Ticket VALUES(13, 'apadiyar')
+
+
+New Member: (kyg, Gomez Calderon, Kayla Y, Pre-Business, Junior, 0)
+Trial Meeting for kyg
+INSERT INTO Ticket VALUES(13, 'kyg')
+
+
+Payment made for hkroberg, 1 semesters paid for
+INSERT INTO Ticket VALUES(13, 'hkroberg')
+
+
+New Member: (mcintire, McIntire, Rahne Victoria, Biology (AGLS), Senior, 0)
+Trial Meeting for mcintire
+INSERT INTO Ticket VALUES(13, 'mcintire')
+
+
+New Member: (banwart, Banwart, Kurt A, Management Information Systems, Senior, 0)
+Trial Meeting for banwart
+INSERT INTO Ticket VALUES(13, 'banwart')
+
+
+New Member: (nku24, Uhlenkamp, Nicole Kay, Open Option (LAS), Sophomore, 0)
+Trial Meeting for nku24
+INSERT INTO Ticket VALUES(13, 'nku24')
+
+
+New Member: (anwagler, Wagler, Alissa Nicole, Pre-Business, Freshman, 0)
+Trial Meeting for anwagler
+INSERT INTO Ticket VALUES(13, 'anwagler')
+
+
+New Member: (fklee1, Lee, Faith K, Pre-Business, Sophomore, 0)
+Trial Meeting for fklee1
+INSERT INTO Ticket VALUES(13, 'fklee1')
+
+
+Trial Meeting for tekippem
+INSERT INTO Ticket VALUES(13, 'tekippem')
+
+
+Payment made for mplee92, 2 semesters paid for
+INSERT INTO Ticket VALUES(13, 'mplee92')
+
+
+New Member: (elijahm, McKeever, Elijah Levi Lee, Supply Chain Management, Senior, 0)
+Trial Meeting for elijahm
+INSERT INTO Ticket VALUES(13, 'elijahm')
+
+
+Payment made for daltonp, 2 semesters paid for
+INSERT INTO Ticket VALUES(13, 'daltonp')
+
+
+Payment made for awjacobs, 2 semesters paid for
+INSERT INTO Ticket VALUES(13, 'awjacobs')
+
+
+Payment made for mlind, 2 semesters paid for
+INSERT INTO Ticket VALUES(13, 'mlind')
+
+
+New Member: (krodel, Krodel, Liam Martin, Pre-Business, Freshman, 0)
+Trial Meeting for krodel
+INSERT INTO Ticket VALUES(13, 'krodel')
+
+
+New Member: (nnordeen, Nordeen, Noah David, Pre-Business, Freshman, 0)
+Trial Meeting for nnordeen
+INSERT INTO Ticket VALUES(13, 'nnordeen')
+
+
+New Member: (olgakayy, Kallapodi, Olga, Pre-Business, Freshman, 0)
+Trial Meeting for olgakayy
+INSERT INTO Ticket VALUES(13, 'olgakayy')
+
+
+New Member: (ajsather, Sather, Anthony James, Pre-Business, Freshman, 0)
+Trial Meeting for ajsather
+INSERT INTO Ticket VALUES(13, 'ajsather')
+
+
+New Member: (stbitz, Bitz, Samantha Taryl, Nutritional Science (AGLS), Senior, 0)
+Trial Meeting for stbitz
+INSERT INTO Ticket VALUES(13, 'stbitz')
+
+
+New Member: (trevert, Tolliver, Trever Lee, Mechanical Engineering, Senior, 0)
+Trial Meeting for trevert
+INSERT INTO Ticket VALUES(13, 'trevert')
+
+
+Trial Meeting for jrbitz
+INSERT INTO Ticket VALUES(13, 'jrbitz')
+
+
+New Member: (sehickey, Hickey, Sean Edward, Architecture-Professional Degree, Senior, 0)
+Trial Meeting for sehickey
+INSERT INTO Ticket VALUES(13, 'sehickey')
+
+
+New Member: (bbordson, Bordson, Beau Michael, Pre-Business, Sophomore, 0)
+Trial Meeting for bbordson
+INSERT INTO Ticket VALUES(13, 'bbordson')
+
+
+Payment made for msquires, 2 semesters paid for
+INSERT INTO Ticket VALUES(13, 'msquires')
+
+
+New Member: (rpsmith, Smith, Ryan Pearson, Management Information Systems, Senior, 0)
+Trial Meeting for rpsmith
+INSERT INTO Ticket VALUES(13, 'rpsmith')
+
+
+New Member: (hlilic, Lilic, Haris, Management Information Systems, Senior, 0)
+Trial Meeting for hlilic
+INSERT INTO Ticket VALUES(13, 'hlilic')
+
+
+INSERT INTO Ticket VALUES(13, 'kaylac')
+
+
+Trial Meeting for mferrera
+INSERT INTO Ticket VALUES(13, 'mferrera')
+
+
+New Member: (mikkolaj, Mikkola, Jacob Edward, Management Information Systems, Senior, 0)
+Trial Meeting for mikkolaj
+INSERT INTO Ticket VALUES(13, 'mikkolaj')
+
+
+Trial Meeting for jbailey
+INSERT INTO Ticket VALUES(13, 'jbailey')
+
+
+Payment made for fisk, 2 semesters paid for
+INSERT INTO Ticket VALUES(13, 'fisk')
+
+
+Payment made for rjhaltom, 2 semesters paid for
+INSERT INTO Ticket VALUES(13, 'rjhaltom')
+
+
+Payment made for montadyl, 2 semesters paid for
+INSERT INTO Ticket VALUES(13, 'montadyl')
+
+
+Payment made for millelev, 2 semesters paid for
+INSERT INTO Ticket VALUES(13, 'millelev')
+
+
+Payment made for tkstroup, 2 semesters paid for
+INSERT INTO Ticket VALUES(13, 'tkstroup')
+
+
+Payment made for klr, 2 semesters paid for
+INSERT INTO Ticket VALUES(13, 'klr')
+
+
+Payment made for mjunk, 2 semesters paid for
+INSERT INTO Ticket VALUES(13, 'mjunk')
+
+
+Payment made for hrkraus, 2 semesters paid for
+INSERT INTO Ticket VALUES(13, 'hrkraus')
+
+
+Trial Meeting for abbyb
+INSERT INTO Ticket VALUES(13, 'abbyb')
+
+
+Payment made for janessac, 1 semesters paid for
+INSERT INTO Ticket VALUES(13, 'janessac')
+
+
+Payment made for crkern, 2 semesters paid for
+INSERT INTO Ticket VALUES(13, 'crkern')
+
+
+Payment made for rwang18, 2 semesters paid for
+INSERT INTO Ticket VALUES(13, 'rwang18')
+
+
+Payment made for juergens, 2 semesters paid for
+INSERT INTO Ticket VALUES(13, 'juergens')
+
+
+New Member: (tbarnes, Barnes, Troy Nolan, Pre-Business, Sophomore, 0)
+Trial Meeting for tbarnes
+INSERT INTO Ticket VALUES(13, 'tbarnes')
+
+
+New Member: (morejola, Orejola, Max Emmanuel T, Pre-Business, Freshman, 2)
+Payment made for 2 semesters for net id morejola
+INSERT INTO Ticket VALUES(13, 'morejola')
+
+
+Payment made for mcneece, 2 semesters paid for
+INSERT INTO Ticket VALUES(13, 'mcneece')
+
+
+Trial Meeting for manasak
+INSERT INTO Ticket VALUES(13, 'manasak')
+
+
+INSERT INTO Ticket VALUES(13, 'nkhosa')
+
+
+Trial Meeting for abbineni
+INSERT INTO Ticket VALUES(13, 'abbineni')
+
+
+New Member: (jbrockman2@gmail.com, Jenna Brockman, Non-Student, Alumni, 1)
+Payment made for 1 semesters for net id jbrockman2@gmail.com
+INSERT INTO Ticket VALUES(13, 'jbrockman2@gmail.com')
+
+
+Trial Meeting for tcbrix
+INSERT INTO Ticket VALUES(13, 'tcbrix')
+
+
+Payment made for mbarr13, 2 semesters paid for
+INSERT INTO Ticket VALUES(13, 'mbarr13')
+
+
+INSERT INTO Ticket VALUES(13, 'jhaacke')
+
+
+New Member: (grreitz, Reitz, Grant Ryan, Management Information Systems, Junior, 2)
+Payment made for 2 semesters for net id grreitz
+INSERT INTO Ticket VALUES(13, 'grreitz')
+
+
+Payment made for dhr, 2 semesters paid for
+INSERT INTO Ticket VALUES(13, 'dhr')
+
+
+Payment made for jtgorz, 2 semesters paid for
+INSERT INTO Ticket VALUES(13, 'jtgorz')
+
+
+Payment made for sadn, 2 semesters paid for
+INSERT INTO Ticket VALUES(13, 'sadn')
+
+
+Payment made for joannesy, 1 semesters paid for
+INSERT INTO Ticket VALUES(13, 'joannesy')
+
+
+Trial Meeting for vsama
+INSERT INTO Ticket VALUES(13, 'vsama')
+
+
+Payment made for alfishel, 2 semesters paid for
+INSERT INTO Ticket VALUES(13, 'alfishel')
+
+
+Payment made for liuj, 1 semesters paid for
+INSERT INTO Ticket VALUES(13, 'liuj')
+
+
+Payment made for mcheng, 2 semesters paid for
+INSERT INTO Ticket VALUES(13, 'mcheng')
+
+
+Payment made for abireddy, 1 semesters paid for
+INSERT INTO Ticket VALUES(13, 'abireddy')
+
+
+New Member: (dmhagar, Hagar, Dominic Maxwell, Communication Studies, Senior, 0)
+Trial Meeting for dmhagar
+INSERT INTO Ticket VALUES(13, 'dmhagar')
+
+
+Payment made for bsbundy, 2 semesters paid for
+INSERT INTO Ticket VALUES(13, 'bsbundy')
+
+
+New Member: (nelsonb, brooks nelson, MIS, Senior, 0)
+Trial Meeting for nelsonb
+INSERT INTO Ticket VALUES(13, 'nelsonb')
+
+
+New Member: (jiaqil, Li, Jiaqi, Management Information Systems, Senior, 0)
+Trial Meeting for jiaqil
+INSERT INTO Ticket VALUES(13, 'jiaqil')
+
+
+Payment made for jiaqil, 2 semesters paid for
+
+
+New Member: (mridulav, Vavilapalli, Mridula, Supply Chain and Information Systems, Graduate, 0)
+Trial Meeting for mridulav
+INSERT INTO Ticket VALUES(13, 'mridulav')
+
+
+Trial Meeting for vikesh
+INSERT INTO Ticket VALUES(13, 'vikesh')
+
+
+New Member: (afridgen, Fridgen, Abigail Mackenzie, Pre-Business, Freshman, 0)
+Trial Meeting for afridgen
+INSERT INTO Ticket VALUES(13, 'afridgen')
+
+
+Trial Meeting for dksingh
+INSERT INTO Ticket VALUES(13, 'dksingh')
+
+
+New Member: (rachnak, Kumar, Rachna, Supply Chain and Information Systems, Graduate, 0)
+Trial Meeting for rachnak
+INSERT INTO Ticket VALUES(13, 'rachnak')
+
+
+New Member: (hmalik, Malik, Himanshu, Supply Chain and Information Systems, Graduate, 0)
+Trial Meeting for hmalik
+INSERT INTO Ticket VALUES(13, 'hmalik')
+
+
+Trial Meeting for arawat
+INSERT INTO Ticket VALUES(13, 'arawat')
+
+
+Payment made for tekippem, 2 semesters paid for
+
+

@@ -1,0 +1,6 @@
+# This is the email admin file.
+# Each address in this file will receive the email report sent from the GUI.
+# Each address is delimited by a newline character.
+jmrolf@iastate.edu
+jmrolf1@gmail.com
+jmrolf@outlook.com

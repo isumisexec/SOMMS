@@ -1,0 +1,536 @@
+Classification updated to 'Junior' for net id 'yentzer'
+Payment made for yentzer, 2 semesters paid for
+INSERT INTO Ticket VALUES(16, 'yentzer')
+
+
+New Member: (ptrinh, Trinh, Phan Anh, Management Information Systems, Junior, 2)
+Payment made for 2 semesters for net id ptrinh
+INSERT INTO Ticket VALUES(16, 'ptrinh')
+
+
+New Member: (pturvin, Turvin, Patrick Anthony, Management Information Systems, Senior, 1)
+Payment made for 1 semesters for net id pturvin
+INSERT INTO Ticket VALUES(16, 'pturvin')
+
+
+INSERT INTO Ticket VALUES(16, 'thtruong')
+
+
+INSERT INTO Ticket VALUES(16, 'vutukuru')
+
+
+INSERT INTO Ticket VALUES(16, 'fisk')
+
+
+New Member: (ndmartin, Martin, Nolan David, Management Information Systems, Senior, 1)
+Payment made for 1 semesters for net id ndmartin
+INSERT INTO Ticket VALUES(16, 'ndmartin')
+
+
+INSERT INTO Ticket VALUES(16, 'dksingh')
+
+
+INSERT INTO Ticket VALUES(16, 'abbyb')
+
+
+INSERT INTO Ticket VALUES(16, 'vaninger')
+
+
+INSERT INTO Ticket VALUES(16, 'westphal')
+
+
+INSERT INTO Ticket VALUES(16, 'israelt')
+
+
+INSERT INTO Ticket VALUES(16, 'bryceh1')
+
+
+Payment made for abbineni, 2 semesters paid for
+INSERT INTO Ticket VALUES(16, 'abbineni')
+
+
+INSERT INTO Ticket VALUES(16, 'onc')
+
+
+New Member: (RAY, Washington, Raymond Odell, Pre-Business, Freshman, 2)
+Payment made for 2 semesters for net id RAY
+INSERT INTO Ticket VALUES(16, 'RAY')
+
+
+New Member: (MBARR13, Barr, Matthew Jacob, Management Information Systems, Senior, 2)
+Payment made for 2 semesters for net id MBARR13
+INSERT INTO Ticket VALUES(16, 'MBARR13')
+
+
+INSERT INTO Ticket VALUES(16, 'hkroberg')
+
+
+New Member: (rsmccc, McCloskey, Riley Scott, Management Information Systems, Junior, 2)
+Payment made for 2 semesters for net id rsmccc
+INSERT INTO Ticket VALUES(16, 'rsmccc')
+
+
+Payment made for praveen, 1 semesters paid for
+INSERT INTO Ticket VALUES(16, 'praveen')
+
+
+Payment made for psc, 2 semesters paid for
+INSERT INTO Ticket VALUES(16, 'psc')
+
+
+INSERT INTO Ticket VALUES(16, 'fasate')
+
+
+New Member: (jwagoner, Wagoner, Jacob C, Management Information Systems, Junior, 2)
+Payment made for 2 semesters for net id jwagoner
+INSERT INTO Ticket VALUES(16, 'jwagoner')
+
+
+INSERT INTO Ticket VALUES(16, 'kaylac')
+
+
+New Member: (mikeduch, Ducharme, Michael David, Management Information Systems, Senior, 2)
+Payment made for 2 semesters for net id mikeduch
+INSERT INTO Ticket VALUES(16, 'mikeduch')
+
+
+INSERT INTO Ticket VALUES(16, 'joannesy')
+
+
+Payment made for tvandyke, 2 semesters paid for
+INSERT INTO Ticket VALUES(16, 'tvandyke')
+
+
+New Member: (avandyke, Van Dyke, Alexander E, Management Information Systems, Sophomore, 2)
+Payment made for 2 semesters for net id avandyke
+INSERT INTO Ticket VALUES(16, 'avandyke')
+
+
+INSERT INTO Ticket VALUES(16, 'teodorb')
+
+
+New Member: (blnguyen, Nguyen, Britani Lien, Management Information Systems, Junior, 2)
+Payment made for 2 semesters for net id blnguyen
+INSERT INTO Ticket VALUES(16, 'blnguyen')
+
+
+New Member: (tylerdix, Dix, Tyler D, Agricultural Business, Senior, 2)
+Payment made for 2 semesters for net id tylerdix
+INSERT INTO Ticket VALUES(16, 'tylerdix')
+
+
+New Member: (mdrees22, Drees, Madison M, Management Information Systems, Senior, 2)
+Payment made for 2 semesters for net id mdrees22
+INSERT INTO Ticket VALUES(16, 'mdrees22')
+
+
+New Member: (alanh, Hromatko, Alan Leroy, Management Information Systems, Senior, 2)
+Payment made for 2 semesters for net id alanh
+INSERT INTO Ticket VALUES(16, 'alanh')
+
+
+Payment made for nkothari, 2 semesters paid for
+INSERT INTO Ticket VALUES(16, 'nkothari')
+
+
+Payment made for nkamdar, 1 semesters paid for
+INSERT INTO Ticket VALUES(16, 'nkamdar')
+
+
+INSERT INTO Ticket VALUES(16, 'abireddy')
+
+
+INSERT INTO Ticket VALUES(16, 'awjacobs')
+
+
+Payment made for ckleeds, 1 semesters paid for
+INSERT INTO Ticket VALUES(16, 'ckleeds')
+
+
+Payment made for jrbitz, 1 semesters paid for
+INSERT INTO Ticket VALUES(16, 'jrbitz')
+
+
+New Member: (yog, Kulkarni, Yogeshwari P, Supply Chain and Information Systems, Graduate, 1)
+Payment made for 1 semesters for net id yog
+INSERT INTO Ticket VALUES(16, 'yog')
+
+
+New Member: (emmaboor, Boor, Emma Christine, Management Information Systems, Senior, 1)
+Payment made for 1 semesters for net id emmaboor
+INSERT INTO Ticket VALUES(16, 'emmaboor')
+
+
+INSERT INTO Ticket VALUES(16, 'amhilton')
+
+
+INSERT INTO Ticket VALUES(16, 'rjhaltom')
+
+
+INSERT INTO Ticket VALUES(16, 'crkern')
+
+
+INSERT INTO Ticket VALUES(16, 'hlilic')
+
+
+New Member: (gstclair, St Clair, Graeme Phillip, Management Information Systems, Senior, 1)
+Payment made for 1 semesters for net id gstclair
+INSERT INTO Ticket VALUES(16, 'gstclair')
+
+
+INSERT INTO Ticket VALUES(16, 'daltonp')
+
+
+New Member: (kmasana, Masana, Phanindra M, Supply Chain and Information Systems, Graduate, 2)
+Payment made for 2 semesters for net id kmasana
+INSERT INTO Ticket VALUES(16, 'kmasana')
+
+
+New Member: (mtrecker, Trecker, Mary-Katelyn, Management Information Systems, Junior, 2)
+Payment made for 2 semesters for net id mtrecker
+INSERT INTO Ticket VALUES(16, 'mtrecker')
+
+
+INSERT INTO Ticket VALUES(16, 'bbordson')
+
+
+Payment made for tpnguyen, 2 semesters paid for
+INSERT INTO Ticket VALUES(16, 'tpnguyen')
+
+
+INSERT INTO Ticket VALUES(16, 'mcneece')
+
+
+Payment made for cascovin, 2 semesters paid for
+INSERT INTO Ticket VALUES(16, 'cascovin')
+
+
+Payment made for hmalik, 1 semesters paid for
+INSERT INTO Ticket VALUES(16, 'hmalik')
+
+
+Payment made for jdmcneer, 1 semesters paid for
+INSERT INTO Ticket VALUES(16, 'jdmcneer')
+
+
+Payment made for danielhh, 2 semesters paid for
+INSERT INTO Ticket VALUES(16, 'danielhh')
+
+
+New Member: (mattack, Ackerman, Matthew John, Management Information Systems, Junior, 1)
+Payment made for 1 semesters for net id mattack
+INSERT INTO Ticket VALUES(16, 'mattack')
+
+
+New Member: (larsen, Larsen, Andrew John, Management Information Systems, Junior, 2)
+Payment made for 2 semesters for net id larsen
+INSERT INTO Ticket VALUES(16, 'larsen')
+
+
+New Member: (nitin, Janagam, Nitin, Supply Chain and Information Systems, Graduate, 2)
+Payment made for 2 semesters for net id nitin
+INSERT INTO Ticket VALUES(16, 'nitin')
+
+
+New Member: (schabjar, Schaben, Jared Michael, Management Information Systems, Senior, 1)
+Payment made for 1 semesters for net id schabjar
+INSERT INTO Ticket VALUES(16, 'schabjar')
+
+
+INSERT INTO Ticket VALUES(16, 'evans1')
+
+
+New Member: (dnfrese, Frese, Dan Nathan, Pre-Business, Junior, 1)
+Payment made for 1 semesters for net id dnfrese
+INSERT INTO Ticket VALUES(16, 'dnfrese')
+
+
+INSERT INTO Ticket VALUES(16, 'zdavis')
+
+
+Payment made for zacharyw, 1 semesters paid for
+INSERT INTO Ticket VALUES(16, 'zacharyw')
+
+
+New Member: (ryanhm, Mathias, Ryan Vijay Henry, Supply Chain and Information Systems, Graduate, 2)
+Payment made for 2 semesters for net id ryanhm
+INSERT INTO Ticket VALUES(16, 'ryanhm')
+
+
+New Member: (whsmith, Smith, William Harlan, Management Information Systems, Senior, 2)
+Payment made for 2 semesters for net id whsmith
+INSERT INTO Ticket VALUES(16, 'whsmith')
+
+
+New Member: (sidj, Jain, Siddartha, Supply Chain and Information Systems, Graduate, 1)
+Payment made for 1 semesters for net id sidj
+INSERT INTO Ticket VALUES(16, 'sidj')
+
+
+INSERT INTO Ticket VALUES(16, 'mjunk')
+
+
+INSERT INTO Ticket VALUES(16, 'janessac')
+
+
+New Member: (haw3695, Wearmouth, Hunter Andrew, Pre-Business, Sophomore, 0)
+Trial Meeting for haw3695
+INSERT INTO Ticket VALUES(16, 'haw3695')
+
+
+Payment made for haw3695, 2 semesters paid for
+
+
+New Member: (stephenh, Hansen, Stephen Christian, Pre-Business, Freshman, 2)
+Payment made for 2 semesters for net id stephenh
+INSERT INTO Ticket VALUES(16, 'stephenh')
+
+
+Payment made for ofarris, 2 semesters paid for
+INSERT INTO Ticket VALUES(16, 'ofarris')
+
+
+New Member: (aghali, Ghali, Amin Raouf, Management Information Systems, Sophomore, 2)
+Payment made for 2 semesters for net id aghali
+INSERT INTO Ticket VALUES(16, 'aghali')
+
+
+New Member: (kjschrad, Schrad, Kenan Joseph, Management Information Systems, Junior, 2)
+Payment made for 2 semesters for net id kjschrad
+INSERT INTO Ticket VALUES(16, 'kjschrad')
+
+
+Payment made for mbdonham, 2 semesters paid for
+INSERT INTO Ticket VALUES(16, 'mbdonham')
+
+
+Payment made for nickh, 2 semesters paid for
+INSERT INTO Ticket VALUES(16, 'nickh')
+
+
+INSERT INTO Ticket VALUES(16, 'jbailey')
+
+
+New Member: (jzenk, Zenk, Jacob P, Management Information Systems, Senior, 1)
+Payment made for 1 semesters for net id jzenk
+INSERT INTO Ticket VALUES(16, 'jzenk')
+
+
+New Member: (highland, Highland, Mark O&#039;Connor, Management Information Systems, Senior, 1)
+Payment made for 1 semesters for net id highland
+INSERT INTO Ticket VALUES(16, 'highland')
+
+
+New Member: (pdehru, Dehru, Piyush, Supply Chain and Information Systems, Graduate, 2)
+Payment made for 2 semesters for net id pdehru
+INSERT INTO Ticket VALUES(16, 'pdehru')
+
+
+New Member: (gjrose, Rose, Gentry John, Management Information Systems, Senior, 1)
+Payment made for 1 semesters for net id gjrose
+INSERT INTO Ticket VALUES(16, 'gjrose')
+
+
+New Member: (jwlong, Long, Justin Ward, Computer Engineering, Senior, 1)
+Payment made for 1 semesters for net id jwlong
+INSERT INTO Ticket VALUES(16, 'jwlong')
+
+
+New Member: (hctim852, Peters, James Mitchell, Mechanical Engineering, Senior, 2)
+Payment made for 2 semesters for net id hctim852
+INSERT INTO Ticket VALUES(16, 'hctim852')
+
+
+INSERT INTO Ticket VALUES(16, 'alfishel')
+
+
+INSERT INTO Ticket VALUES(16, 'vsama')
+
+
+INSERT INTO Ticket VALUES(16, 'dchhitu')
+
+
+INSERT INTO Ticket VALUES(16, 'nkhosa')
+
+
+INSERT INTO Ticket VALUES(16, 'manasak')
+
+
+INSERT INTO Ticket VALUES(16, 'kenyon')
+
+
+INSERT INTO Ticket VALUES(16, 'bbpeters')
+
+
+INSERT INTO Ticket VALUES(16, 'akumar')
+
+
+INSERT INTO Ticket VALUES(16, 'apadiyar')
+
+
+New Member: (memerson, Emerson, Maxwell Ronald, Management Information Systems, Junior, 2)
+Payment made for 2 semesters for net id memerson
+INSERT INTO Ticket VALUES(16, 'memerson')
+
+
+Payment made for mfardal, 2 semesters paid for
+INSERT INTO Ticket VALUES(16, 'mfardal')
+
+
+INSERT INTO Ticket VALUES(16, 'bsbundy')
+
+
+New Member: (rhofman, Hofman, Ryan, Management Information Systems, Senior, 1)
+Payment made for 1 semesters for net id rhofman
+INSERT INTO Ticket VALUES(16, 'rhofman')
+
+
+INSERT INTO Ticket VALUES(16, 'yuchenli')
+
+
+New Member: (kmagbavo, Agbavo, Koffi M, Management Information Systems, Senior, 2)
+Payment made for 2 semesters for net id kmagbavo
+INSERT INTO Ticket VALUES(16, 'kmagbavo')
+
+
+New Member: (jkengni, Kengni, Junnie Alikou, Pre-Business, Junior, 2)
+Payment made for 2 semesters for net id jkengni
+INSERT INTO Ticket VALUES(16, 'jkengni')
+
+
+New Member: (cjgroten, Van Gundy, Carly Jo, Marketing, Senior, 2)
+Payment made for 2 semesters for net id cjgroten
+INSERT INTO Ticket VALUES(16, 'cjgroten')
+
+
+INSERT INTO Ticket VALUES(16, 'rsin')
+
+
+Payment made for nldix, 2 semesters paid for
+INSERT INTO Ticket VALUES(16, 'nldix')
+
+
+INSERT INTO Ticket VALUES(16, 'dhr')
+
+
+INSERT INTO Ticket VALUES(16, 'grreitz')
+
+
+Payment made for cyang87, 2 semesters paid for
+INSERT INTO Ticket VALUES(16, 'cyang87')
+
+
+New Member: (mjlang, Lang, Matthew John, Management Information Systems, Senior, 1)
+Payment made for 1 semesters for net id mjlang
+INSERT INTO Ticket VALUES(16, 'mjlang')
+
+
+Payment made for nho, 2 semesters paid for
+INSERT INTO Ticket VALUES(16, 'nho')
+
+
+INSERT INTO Ticket VALUES(16, 'liuj')
+
+
+Payment made for dolson, 2 semesters paid for
+INSERT INTO Ticket VALUES(16, 'dolson')
+
+
+INSERT INTO Ticket VALUES(16, 'mcheng')
+
+
+Payment made for tanksley, 2 semesters paid for
+INSERT INTO Ticket VALUES(16, 'tanksley')
+
+
+INSERT INTO Ticket VALUES(16, 'gyulafia')
+
+
+INSERT INTO Ticket VALUES(16, 'montadyl')
+
+
+New Member: (ngdekhai, Ng, De Khai, Management Information Systems, Senior, 2)
+Payment made for 2 semesters for net id ngdekhai
+INSERT INTO Ticket VALUES(16, 'ngdekhai')
+
+
+New Member: (jakew, Wiemiller, Jacob David, Management Information Systems, Senior, 2)
+Payment made for 2 semesters for net id jakew
+INSERT INTO Ticket VALUES(16, 'jakew')
+
+
+New Member: (cjswehla, Swehla, Caleb John, Pre-Business, Junior, 2)
+Payment made for 2 semesters for net id cjswehla
+INSERT INTO Ticket VALUES(16, 'cjswehla')
+
+
+New Member: (janice, D&#039;Souza, Janice, Supply Chain and Information Systems, Graduate, 2)
+Payment made for 2 semesters for net id janice
+INSERT INTO Ticket VALUES(16, 'janice')
+
+
+New Member: (kcejka, Cejka, Kelsi, Management Information Systems, Senior, 2)
+Payment made for 2 semesters for net id kcejka
+INSERT INTO Ticket VALUES(16, 'kcejka')
+
+
+INSERT INTO Ticket VALUES(16, 'mikkolaj')
+
+
+Payment made for vikesh, 2 semesters paid for
+INSERT INTO Ticket VALUES(16, 'vikesh')
+
+
+Trial Meeting for mridulav
+INSERT INTO Ticket VALUES(16, 'mridulav')
+
+
+INSERT INTO Ticket VALUES(16, 'pweinert')
+
+
+INSERT INTO Ticket VALUES(16, 'tekippem')
+
+
+New Member: (jschrick, Schrick, Jaren Lee, Management Information Systems, Senior, 2)
+Payment made for 2 semesters for net id jschrick
+INSERT INTO Ticket VALUES(16, 'jschrick')
+
+
+INSERT INTO Ticket VALUES(16, 'vhartogh')
+
+
+INSERT INTO Ticket VALUES(16, 'cjvelas')
+
+
+New Member: (mgustin, Gustin, Matthew Lee, Computer Engineering, Junior, 1)
+Payment made for 1 semesters for net id mgustin
+INSERT INTO Ticket VALUES(16, 'mgustin')
+
+
+New Member: (abeshey, Beshey, Alayne Elizabeth, Pre-Business, Sophomore, 1)
+Payment made for 1 semesters for net id abeshey
+INSERT INTO Ticket VALUES(16, 'abeshey')
+
+
+Payment made for amfrank, 2 semesters paid for
+INSERT INTO Ticket VALUES(16, 'amfrank')
+
+
+Classification updated to 'Sophomore' for net id 'ahauser'
+INSERT INTO Ticket VALUES(16, 'ahauser')
+
+
+New Member: (kelechio, Ogbonnaya, Kelechi C, Supply Chain Management, Senior, 2)
+Payment made for 2 semesters for net id kelechio
+INSERT INTO Ticket VALUES(16, 'kelechio')
+
+
+Payment made for rwolt, 2 semesters paid for
+INSERT INTO Ticket VALUES(16, 'rwolt')
+
+
+Payment made for patrickc, 1 semesters paid for
+Trial Meeting for patrickc
+INSERT INTO Ticket VALUES(16, 'patrickc')
+
+
