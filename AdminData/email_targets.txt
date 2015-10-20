@@ -2,5 +2,8 @@
 # Each address in this file will receive the email report sent from the GUI.
 # Each address is delimited by a newline character.
 jmrolf@iastate.edu
-jmrolf1@gmail.com
-jmrolf@outlook.com
+kscheibe@iastate.edu
+jburnley@iastate.edu
+yentzer@iastate.edu
+jmhage@iastate.edu
+gleigh@iastate.edu
