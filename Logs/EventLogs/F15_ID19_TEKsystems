@@ -149,3 +149,14 @@ Payment made for deepal, 1 semesters paid for
 INSERT INTO Ticket VALUES(19, 'dksingh')
 
 
+Major updated to Management Information Systems for net id abbyb
+Classification updated to 'Sophomore' for net id 'abbyb'
+INSERT INTO Ticket VALUES(19, 'abbyb')
+
+
+Major updated to Management Information Systems for net id ajmuhs
+
+
+Major updated to Management Information Systems for net id alfishel
+
+
