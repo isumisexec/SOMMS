@@ -1,0 +1,106 @@
+INSERT INTO Ticket VALUES(21, 'jmrolf')
+
+
+INSERT INTO Ticket VALUES(21, 'hkroberg')
+
+
+INSERT INTO Ticket VALUES(21, 'sadn')
+
+
+INSERT INTO Ticket VALUES(21, 'amtuel')
+
+
+INSERT INTO Ticket VALUES(21, 'cklum')
+
+
+INSERT INTO Ticket VALUES(21, 'mcintire')
+
+
+INSERT INTO Ticket VALUES(21, 'awjacobs')
+
+
+INSERT INTO Ticket VALUES(21, 'chaihuan')
+
+
+New Member: (hdsaling, Saling, Henry David, Aerospace Engineering, Sophomore, 0)
+Trial Meeting for hdsaling
+INSERT INTO Ticket VALUES(21, 'hdsaling')
+
+
+INSERT INTO Ticket VALUES(21, 'blnguyen')
+
+
+INSERT INTO Ticket VALUES(21, 'tkstroup')
+
+
+INSERT INTO Ticket VALUES(21, 'acramond')
+
+
+INSERT INTO Ticket VALUES(21, 'crkern')
+
+
+INSERT INTO Ticket VALUES(21, 'janice')
+
+
+INSERT INTO Ticket VALUES(21, 'csincox')
+
+
+INSERT INTO Ticket VALUES(21, 'mplee92')
+
+
+INSERT INTO Ticket VALUES(21, 'joannesy')
+
+
+INSERT INTO Ticket VALUES(21, 'onc')
+
+
+INSERT INTO Ticket VALUES(21, 'prernac')
+
+
+INSERT INTO Ticket VALUES(21, 'rachnak')
+
+
+INSERT INTO Ticket VALUES(21, 'abireddy')
+
+
+INSERT INTO Ticket VALUES(21, 'gyulafia')
+
+
+INSERT INTO Ticket VALUES(21, 'ryanhm')
+
+
+INSERT INTO Ticket VALUES(21, 'zacharyw')
+
+
+INSERT INTO Ticket VALUES(21, 'mcheng')
+
+
+INSERT INTO Ticket VALUES(21, 'liuj')
+
+
+INSERT INTO Ticket VALUES(21, 'abbineni')
+
+
+INSERT INTO Ticket VALUES(21, 'kmasana')
+
+
+INSERT INTO Ticket VALUES(21, 'apadiyar')
+
+
+INSERT INTO Ticket VALUES(21, 'vsama')
+
+
+INSERT INTO Ticket VALUES(21, 'brooksn')
+
+
+INSERT INTO Ticket VALUES(21, 'arawat')
+
+
+INSERT INTO Ticket VALUES(21, 'hmalik')
+
+
+New Member: (DKSINGH, Singh, Dhirendra Kumar, Supply Chain and Information Systems, Graduate, 1)
+Payment made for 1 semesters for net id DKSINGH
+INSERT INTO Ticket VALUES(21, 'DKSINGH')
+
+
