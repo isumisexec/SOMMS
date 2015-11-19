@@ -1,0 +1,103 @@
+INSERT INTO Ticket VALUES(23, 'jmrolf')
+
+
+INSERT INTO Ticket VALUES(23, 'jmhage')
+
+
+INSERT INTO Ticket VALUES(23, 'deepal')
+
+
+INSERT INTO Ticket VALUES(23, 'tcbrix')
+
+
+INSERT INTO Ticket VALUES(23, 'mcintire')
+
+
+INSERT INTO Ticket VALUES(23, 'acramond')
+
+
+INSERT INTO Ticket VALUES(23, 'csincox')
+
+
+INSERT INTO Ticket VALUES(23, 'kenyon')
+
+
+INSERT INTO Ticket VALUES(23, 'mlind')
+
+
+INSERT INTO Ticket VALUES(23, 'tekippem')
+
+
+INSERT INTO Ticket VALUES(23, 'awjacobs')
+
+
+New Member: (prbuhl, Buhl, Patrick Ryan, Accounting, Senior, 0)
+Trial Meeting for prbuhl
+INSERT INTO Ticket VALUES(23, 'prbuhl')
+
+
+INSERT INTO Ticket VALUES(23, 'nitin')
+
+
+INSERT INTO Ticket VALUES(23, 'ahauser')
+
+
+INSERT INTO Ticket VALUES(23, 'fisk')
+
+
+Payment made for ballardl, 2 semesters paid for
+INSERT INTO Ticket VALUES(23, 'ballardl')
+
+
+Name updated to Souza, Janice for net id janice
+INSERT INTO Ticket VALUES(23, 'janice')
+
+
+INSERT INTO Ticket VALUES(23, 'ryanhm')
+
+
+INSERT INTO Ticket VALUES(23, 'prernac')
+
+
+INSERT INTO Ticket VALUES(23, 'crkern')
+
+
+INSERT INTO Ticket VALUES(23, 'rachnak')
+
+
+INSERT INTO Ticket VALUES(23, 'sidj')
+
+
+INSERT INTO Ticket VALUES(23, 'rjhaltom')
+
+
+INSERT INTO Ticket VALUES(23, 'nkothari')
+
+
+INSERT INTO Ticket VALUES(23, 'arawat')
+
+
+INSERT INTO Ticket VALUES(23, 'mcheng')
+
+
+INSERT INTO Ticket VALUES(23, 'mcneece')
+
+
+INSERT INTO Ticket VALUES(23, 'abireddy')
+
+
+INSERT INTO Ticket VALUES(23, 'laharish')
+
+
+INSERT INTO Ticket VALUES(23, 'apadiyar')
+
+
+INSERT INTO Ticket VALUES(23, 'cjvelas')
+
+
+INSERT INTO Ticket VALUES(23, 'akumar')
+
+
+INSERT INTO Ticket VALUES(23, 'patrickc')
+
+
